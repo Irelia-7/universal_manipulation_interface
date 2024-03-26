@@ -8,6 +8,7 @@ wandb
 **/.DS_Store
 *.lprof
 ckpt
+obs
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
